@@ -1,5 +1,5 @@
 # Site Settings
-title: TheX | Biodiversidad de Monte Escobedo
+title: EXPLORADORES | Biodiversidad de Monte Escobedo
 email: thexploradores@gmail.com
 description: Un sitio dedicado al conocimiento de la biodiversidad del Municipio de Monte Escabedo, Zacatecas. 
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -13,7 +13,7 @@ disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: JoseLuisManzanaresRivera
+github_username: Exploradores
 facebook_username: Exploradores-124737764353663
 twitter_username: JLManzanaresR
 instagram_username: instagram_username
